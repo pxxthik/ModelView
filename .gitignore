@@ -1,0 +1,10 @@
+__pycache__/
+
+.taipy/
+
+.vscode/
+.idea/
+
+user_data/
+
+*.toml
