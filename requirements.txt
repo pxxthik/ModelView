@@ -1,0 +1,4 @@
+taipy
+numpy
+sklearn
+plotly
